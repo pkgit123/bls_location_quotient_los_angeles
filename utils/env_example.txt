@@ -1,0 +1,3 @@
+# BLS API Configuration
+# Get your API key from: https://data.bls.gov/registrationEngine/
+BLS_API_KEY=your_api_key_here 
