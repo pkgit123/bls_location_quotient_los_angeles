@@ -83,7 +83,8 @@ python utils/compare_2019_2024.py
 ### Essential Reading
 1. **[Research Methodology](docs/research_methodology.md)** - Complete technical approach and methodology
 2. **[Analysis Results](docs/analysis_results.md)** - Comprehensive findings and insights
-3. **[Project Organization](README_ORGANIZATION.md)** - Detailed project structure guide
+3. **[Occupational Growth Factors](docs/occupational_growth_factors.md)** - Deep dive into technical writers and textile workers growth
+4. **[Project Organization](README_ORGANIZATION.md)** - Detailed project structure guide
 
 ### Additional Guides
 - `docs/manual_download_guide.md` - Manual data download instructions
