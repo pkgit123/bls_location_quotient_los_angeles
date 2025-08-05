@@ -84,8 +84,9 @@ python utils/compare_2019_2024.py
 1. **[Research Methodology](docs/research_methodology.md)** - Complete technical approach and methodology
 2. **[Analysis Results](docs/analysis_results.md)** - Comprehensive findings and insights
 3. **[Shampooers Growth Analysis](docs/shampooers_growth_analysis.md)** - Deep dive into LA's #1 growing occupation
-4. **[Occupational Growth Factors](docs/occupational_growth_factors.md)** - Deep dive into technical writers and textile workers growth
-5. **[Project Organization](README_ORGANIZATION.md)** - Detailed project structure guide
+4. **[Dancers Growth Analysis](docs/dancers_growth_analysis.md)** - Deep dive into LA's #5 growing occupation
+5. **[Occupational Growth Factors](docs/occupational_growth_factors.md)** - Deep dive into technical writers and textile workers growth
+6. **[Project Organization](README_ORGANIZATION.md)** - Detailed project structure guide
 
 ### Additional Guides
 - `docs/manual_download_guide.md` - Manual data download instructions
